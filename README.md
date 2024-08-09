@@ -2,7 +2,7 @@ This project is a Face Recognition and Attendance System built using OpenCV and 
 
 Table of Contents Features Technologies Used Installation Usage Project Structure Contributing License Acknowledgements Features Face Detection: Detects faces in real-time using a webcam. Face Recognition: Recognizes and identifies registered faces. Attendance Tracking: Records attendance with the date and time in a CSV file. CSV Export: Easily export attendance records to a CSV file. Technologies Used Programming Language: Python Libraries: OpenCV (for face detection and recognition) NumPy (for numerical operations) Pandas (for CSV handling) Installation Clone the Repository:
 
-bash Copy code git clone https://github.com/your-username/face-recognition-attendance.git cd face-recognition-attendance Install the Required Packages:
+bash Copy code git clone https://github.com/Saurabhdawkhar/Face-recognition-attendance.git cd face-recognition-attendance Install the Required Packages:
 
 Make sure you have Python 3.x installed. Install the required libraries using pip:
 
